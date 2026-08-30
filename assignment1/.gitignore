@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python virtual environments & packages
+.venv/
+venv/
+env/
+ENV/
+.conda/
+
+# VS Code directory settings
+.vscode/
+
+# OS metadata
+.DS_Store
+Thumbs.db
