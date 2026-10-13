@@ -16,5 +16,3 @@ python train.py
 
 # Evaluate models and generate figures
 python evaluate.py
-
-
